@@ -61,7 +61,7 @@ EZBuy is a e-commerce platform built with React and Vite. It allows users to bro
 
 ## Login Credentials
 
-To check the interviewer, use the following credentials:
+Login, use the following credentials:
 
 - Email: `admin@gmail.com`
 - Password: `admin123`
