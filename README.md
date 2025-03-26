@@ -10,6 +10,7 @@ This project is a frontend assignment for an e-commerce application.
 - [Database](#Database)
 - [Setup](#setup)
 - [Usage](#usage)
+- [Login Credentials](#login-credentials)
 
 ## Introduction
 
@@ -57,3 +58,10 @@ EZBuy is a e-commerce platform built with React and Vite. It allows users to bro
    npm start
    ```
 2. Open your browser and navigate to `http://localhost:5173/`.
+
+## Login Credentials
+
+To check the interviewer, use the following credentials:
+
+- Email: `admin@gmail.com`
+- Password: `admin123`
